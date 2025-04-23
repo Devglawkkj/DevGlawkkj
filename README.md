@@ -16,11 +16,19 @@
 
 ## 🛠️ Tecnologias que estou aprendendo
 
-- HTML5, CSS3
-- MySql
-- Python
-- Git & GitHub
-- .NET
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,cs,py,dotnet&theme=light" alt="skills1"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,visualstudio,mysql&theme=light" alt="skills2"/>
+  </a>
+</div>  
 
 
 ---
@@ -28,4 +36,5 @@
 ## 📫 Contato
 
 Você pode me encontrar por aqui:  
-![LinkedIn](https://img.shields.io/badge/LinkedIn) 
+![LinkedIn](www.linkedin.com/in/glauckyon-rocha-0b055b277) 
+- glauckyonr2@gmail.com
