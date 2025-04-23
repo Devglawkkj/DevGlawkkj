@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Olá, meu nome é Glauckyon! 👋</h1>
 
-<!--
-**Devglawkkj/DevGlawkkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Seja bem-vindo(a) ao meu perfil!  
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+🎓 Sou estudante de **programação** e estou sempre buscando aprender novas tecnologias.  
+💡 Curioso por natureza, gosto de explorar o mundo da tecnologia e criar coisas legais com código.  
+📚 Atualmente focado em aprender **back-end**.
+
+---
+
+## 🛠️ Tecnologias que estou aprendendo
+
+- HTML5, CSS3
+- MySql
+- Python
+- Git & GitHub
+- .NET
+
+
+---
+
+## 📫 Contato
+
+Você pode me encontrar por aqui:  
+![LinkedIn](https://img.shields.io/badge/LinkedIn) 
